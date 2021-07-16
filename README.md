@@ -1,4 +1,4 @@
-# Simple Selfbot For Whatsapp
+# ivanbot3
 
 <img align="center" height="auto" src="https://i.ibb.co/MP9r17Q/on-Twitter.jpg"/>
 
@@ -8,7 +8,7 @@
 ```cmd
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/megaa4282/Selfbot-whatsapp.git
+> git clone https://github.com/ivandoang2/Selfbot-whatsapp.git
 > cd Selfbot-whatsapp
 > bash install.sh
 > npm start
@@ -20,7 +20,7 @@
 * [`Download Git`](https://git-scm.com/downloads)
 ```cmd
 > git clone https://github.com/megaa4282/Selfbot-whatsapp.git
-> cd Selfbot-whatsapp
+> cd ivanbot3
 > npm i
 > npm start
 > scan qr
@@ -30,9 +30,9 @@
 Edit the required value in [`config.json`](https://github.com/Megaa4282/Simple-selfbotwa/blob/master/config.json)
 ```json
 {
-    "owner": "628xxxxxxx",
+    "owner": "6288229581693",
     "mods": [
-      "628xxxxxxx"
+      "6288229581693"
      ],
     "public": false
 }
@@ -112,10 +112,10 @@ Edit the required value in [`config.json`](https://github.com/Megaa4282/Simple-s
 * AND MORE, CEK SENDIRI!
 
 ## Join Group
-* [`My Group`](https://chat.whatsapp.com/JYb7i2b4GbICa0fk17KHOk)
+* [`My Group`](https://chat.whatsapp.com/FwcYwMhvb9iAS7nS3qg3hH)
 
 ## Thanks to
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`LolHuman`](https://github.com/LoL-Human)
-* [`Lindow`](https://github.com/mccnlight)
-* [`Fazone`](https://github.com/fazonetea)
+* IVANNN
+ 
+
+
