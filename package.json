@@ -1,7 +1,7 @@
 {
-    "name": "Simple-selfbot",
+    "name": "ivanbot3",
     "version": "1.0.0",
-    "description": "modification script LoL-Human",
+    "description": "modification script IVANNN",
     "main": "index.js",
     "directories": {
         "test": "test"
@@ -29,9 +29,9 @@
         "url": "git+https://github.com/megaa4282/Simple-selfbotwa.git"
     },
     "keywords": [
-        "selfbot"
+        "ivanbot3"
     ],
-    "author": "Meguyy",
+    "author": "IVANNN",
     "bugs": {
         "url": "https://github.com/megaa4282/Simple-selfbotwa/issues"
     },
