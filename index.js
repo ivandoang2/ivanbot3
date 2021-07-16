@@ -1,6 +1,6 @@
 /** 
- * ORIGINALY BY : github.com/LoL-Human
- * RECODE BY : LINDOW & MEGA & FAZONE
+ * ORIGINALY BY : IVANNN
+ * RECODE BY : IVANNN
  **/
 
 const { 
