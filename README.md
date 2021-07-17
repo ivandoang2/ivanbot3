@@ -8,7 +8,7 @@
 ```cmd
 > pkg install git
 > pkg install nodejs
-> git clone https://github.com/ivandoang2/ivanbot.git
+> git clone https://github.com/ivandoang2/ivanbot1.git
 > cd ivanbot3
 > bash install.sh
 > npm start
